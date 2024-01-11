@@ -44,7 +44,7 @@ when used with `EAP-MSCHAPv2`.
 
 == Configuration
 
-To let a connetion in xref:swanctl/swanctlConf.adoc[`*swanctl.conf*`] use a
+To let a connection in xref:swanctl/swanctlConf.adoc[`*swanctl.conf*`] use a
 RADIUS backend server, define
 
  connections.<conn>.remote.auth = eap-radius
